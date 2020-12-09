@@ -18,7 +18,7 @@ are available as model's outputs.
 |[ResNet18](#resnet18)|[ResNet34](#resnet34)|[ResNet50](#resnet50)|[ResNet101](#resnet101)|[ResNet152](#resnet152)|
 |![ResNet18](./results_png/ResNet-18.png)|![ResNet34](./results_png/ResNet-34.png)|![ResNet50](./results_png/ResNet-50.png)|![ResNet101](./results_png/ResNet-101.png)|![ResNet152](./results_png/ResNet-152.png)|
 |[ResNeXt50_32x4d](#resnext50_32x4d)|[ResNeXt101_32x8d](#resnext101_32x8d)|[WideResNet50_2](#wideresnet50_2)|[WideResNet101_2](#wideresnet101_2)|
-|![ResNeXt50_32x4d](./results_png/ResNeXt-50(32x4d).png)|![ResNeXt101_32x8d](./results_png/ResNeXt-101(32x8d).png)|![WideResNet50_2](./results_png/WideResNet-50(64*2).png)|![WideResNet101_2](./results_png/WideResNet-101(64*2).png)|
+|![ResNeXt50_32x4d](./results_png/ResNeXt-50(32x4d).png)|![ResNeXt101_32x8d](./results_png/ResNeXt-101(32x8d).png)|![WideResNet50_2](./results_png/WideResNet-50.png)|![WideResNet101_2](./results_png/WideResNet-101.png)|
 
 ## Details
 
@@ -39,7 +39,7 @@ are available as model's outputs.
 ![ResNeXt101_32x8d](./results_png/ResNeXt-101(32x8d).png)
 
 ### WideResNet50_2[↑](#results)
-![WideResNet50_2](./results_png/WideResNet-50(64*2).png)
+![WideResNet50_2](./results_png/WideResNet-50.png)
 ###  WideResNet101_2[↑](#results)
-![WideResNet101_2](./results_png/WideResNet-101(64*2).png)
+![WideResNet101_2](./results_png/WideResNet-101.png)
 
