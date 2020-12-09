@@ -11,6 +11,16 @@ the different ResNet architectures. ``ResNetAT``'s ``forward``
 method is defined sucht that the inner layers' outputs
 are available as model's outputs.
 
+## Requirements
+Python 3.6
+
+| Pypi Package           | Version |
+| ---------------------- | --------- |
+|numpy                   | 1.19.4 |
+|Pillow                  | 8.0.1 |
+|torch                   | 1.7.0 |
+|torchvision             | 0.8.1 |
+
 ## Results
 
 |Summary|   |   |   |   |
