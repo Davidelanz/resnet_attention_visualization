@@ -6,7 +6,7 @@ The models used are the ``torchvision`` pretrained ones
 for further details)
 
 A modified ``ResNet`` class, called ``ResNetAT``, is available
-at ``resnet_at.py``, along with the finctions to initialize
+at ``resnet_at.py``, along with the functions to initialize
 the different ResNet architectures. ``ResNetAT``'s ``forward``
 method is defined sucht that the inner layers' outputs
 are available as model's outputs.
