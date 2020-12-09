@@ -85,6 +85,6 @@ if __name__ == "__main__":
     plot_attention(model, img_dir, out_dir, "ResNeXt-101(32x8d)")
 
     model = resnet_at.wide_resnet50_2()
-    plot_attention(model, img_dir, out_dir, "WideResNet-50(64*2)")
+    plot_attention(model, img_dir, out_dir, "WideResNet-50")
     model = resnet_at.wide_resnet101_2()
-    plot_attention(model, img_dir, out_dir, "WideResNet-101(64*2)")
+    plot_attention(model, img_dir, out_dir, "WideResNet-101")
